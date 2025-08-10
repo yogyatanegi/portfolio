@@ -2,7 +2,7 @@
 
 ## Overview  
 This is a personal portfolio website designed to showcase my skills, experience, education, and contact information. It includes a modern design, interactive tabs, and social media links. The project is built using **HTML**, **CSS**, and **JavaScript**.  
-
+##Live:- https://yogyatanegi.github.io/portfolio/
 ---
 
 ## Features  
@@ -28,4 +28,5 @@ This is a personal portfolio website designed to showcase my skills, experience,
 - **Google Fonts**: Custom fonts for text styling.  
 
 ---
+
 
